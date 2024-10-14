@@ -1,0 +1,80 @@
+
+body{
+    width: 300px;
+    margin: auto;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    font-style: italic;
+    color: Black;
+    font-weight: bolder;
+    font-size: 25px;
+    background-image: url('https://imgs.search.brave.com/KkwC7wztVNcpODSEzJ48HfRaglg5H1mmFmAW9TmxnNs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTY4/MjgxNzY1L2VzL2Zv/dG8vbW96YW1iaXF1/ZS5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9ZHFIS0FTcFZO/bmstSUJ2a291NExi/TUNKOTVVSkx0NF9Y/OFc0WG9SZUZYND0');  
+    background-size: cover;
+}
+
+h1{
+    font-size: 40px;
+    
+}
+.header{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0%;
+  
+   
+}
+.div2{
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 1px;
+    
+    
+    
+    
+}
+.div3{
+    margin-top: 150px;
+    text-align: justify;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px;
+    
+}
+.div4{
+    margin-top: 150px;
+    text-align: justify;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px;
+}
+.div5{
+    margin-top: 150px;
+    text-align: justify;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background-color: white;
+   padding: 10px;
+}
+.div6{
+    margin-top: 150px;
+    text-align: justify;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px;
+}
+.div7{
+    margin-top: 150px;
+    text-align: justify;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px;
+
+}
